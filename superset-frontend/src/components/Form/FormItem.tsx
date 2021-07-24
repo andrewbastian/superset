@@ -41,6 +41,11 @@ const StyledItem = styled(Form.Item)`
         }
       }
     }
+      //helpText:
+      .css-1vjeoz1-Field {
+          opacity: 0.7;
+          font-size: ${theme.typography.sizes.s}px;
+      }
   `}
 `;
 
